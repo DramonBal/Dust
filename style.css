@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(86, 30, 207);
+  /*background-color: rgb(86, 30, 207);*/
 }
 video-container {
   display: flex;
@@ -41,6 +41,7 @@ h1 {
   border: 15px solid rgb(142, 107, 37);
   width: 100%;
 }
+
 
 
 
